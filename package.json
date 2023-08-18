@@ -1,0 +1,14 @@
+{
+  "name": "alixbot",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": ""
+  },
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  }
+}
